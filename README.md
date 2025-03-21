@@ -1,1 +1,1 @@
-# Logistic-odoo17
+# EST-ODOO17
